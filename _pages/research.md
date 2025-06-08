@@ -23,7 +23,7 @@ H II regions are where star formation takes place in the galaxy, characterized b
 </td>
 <td width="50%">
 
-![The spectrum for the target HIll region](https://panweixuan.github.io/site//files/The%20spectrum%20for%20the%20target%20H%20ll%20region.png)
+![The spectrum for the target HIll region](https://github.com/panweixuan/site/blob/e24723923f777cbe24c3a52ba121ace47603e34f/files/The%20spectrum%20for%20the%20target%20H%20ll%20region.png)
 <br>
 <div align="center">
 <small>The black lines in the figure represent spectra in which the main spectral emission lines have been labelled.</small>
