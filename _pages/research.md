@@ -3,9 +3,7 @@ layout: archive
 title: "Research"
 permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 
 # Welcome to My Research Website! 👋
