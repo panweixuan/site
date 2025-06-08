@@ -41,18 +41,18 @@ Through this research experience, I learned about rejection and MCMC sampling. E
 *image credit: Aaron Geller* 
 !--->
 
-
+<!---
 ## Mining Ultra-Faint Galaxies in the Local Group 🌌
 ### Advisor: [Eric Bell](https://sites.lsa.umich.edu/ericbell/)
 ### 01/2023 - 05/2024
 ![star_galaxy](https://yanbopanpi.github.io/yanbo_pan.github.io//images/star_galaxy_classification.png){: style="width: 50%; max-width: 450px; height: auto; float: right;"}
-<!---
+
 By analyzing the stellar spatial distribution, we try to search for potential ultra-faint dwarf (UFD) galaxies of M31 by examining stellar overdensities within the DELVE survey. We attempt to search for overdensities for horizontal branch (HB) and red giant branch stars (RGB) using Density-Based Spatial Clustering of Applications with Noise (DBSCAN). We first focused on Pegasus IV dwarf galaxy and its stellar population as a guide for designing our overdensity search pipeline. With the detected overdensities on the color-magnitude diagram, we also explore the stellar overdensities regarding their spatial distribution. 
-!--->
+
 Ultra-faint dwarf (UFD) satellite galaxies are believed to have the oldest, most dark-matter-dominated, and least chemically evolved stellar populations. Therefore, UFDs serve as effective cosmological probes for the early stage of the Universe. In this study, we applied unsupervised machine learning (DBSCAN & OPTICS) to search for potential UFDs by analyzing spatial overdensities of the tip of red giant branch (TRGB) stars in the DELVE survey. 
 
 ![AndXXIX](https://yanbopanpi.github.io/yanbo_pan.github.io//images/AndXXIX.png){: style="width: 35%; max-width: 450px; height: auto; float: left;"}
-<!---
+
 After devising the pipeline with DBSCAN, we also tried using HDBSCAN and OPTICS to test which unsupervised machine learning method yielded the best result for the UFD search. Finally, OPTICS is chosen since it recovers several UFDs of M31 with the least number of false positives. During this project, we also explore the star-galaxy separation criteria in the DELVE survey. The tip of the red giant branch selection criteria is modified based on the star-galaxy separation magnitude limit. 
 
 Our objective is to complement the current catalog of UFDs in the local volume while exploring the potential of using modern statistical density searching tools in UFD studies. We have focused on searching for M31 UFDs and recovered all 10 M31 satellite galaxies in the DELVE DR2 coverage. This work provides tools to identify UFDs in large sky surveys, which helps to test the cosmological constraints of the Lambda Cold Dark Matter (ΛCDM) model.
