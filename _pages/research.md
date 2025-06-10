@@ -15,7 +15,7 @@ author_profile: true
 ### 01/2025 - Present
 
 As the fundamental building blocks of the large-scale structure of the Universe, dark matter halos are typically located on filaments or at their junctions, though some reside in lower-density voids. The galaxies we observe often form within these halos. Consequently, studying dark halos can deepen our understanding of galaxy evolution, while the study of galaxies, in turn, can constrain halo properties and thus inform dark matter models. In this study, I focus on several commonly discussed properties of dark halos, such as density profile, mass function, among others.
-![Density Profiles of the Largest 10 Halos](https://github.com/panweixuan/site/blob/master/files/Density%20Profilne.png?raw=true){: style="width: 35%; max-width: 450px; height: auto; float: left;"}
+<img align="right" src="https://github.com/panweixuan/site/blob/master/files/Density%20Profilne.png?raw=true"/>
 
 
 ***
