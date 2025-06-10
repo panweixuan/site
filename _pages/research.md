@@ -8,7 +8,7 @@ author_profile: true
 <!-- 
 # Welcome to My Research Website! 👋
 -->
-I actively seek any potential research opportunities and also look forward to exploring diverse areas. I will share details of my past projects here.
+I actively seek any potential research opportunities and also look forward to exploring diverse areas. I will share details of my past projects here. 👩‍💻
 
 
 ## Cosmological Simulation of Large-Scale Structure
