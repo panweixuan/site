@@ -8,6 +8,7 @@ author_profile: true
 <!-- 
 # Welcome to My Research Website! 👋
 -->
+I actively seek any potential research opportunities and also look forward to exploring diverse areas. I will share details of my past projects here.
 
 
 ## Cosmological Simulation of Large-Scale Structure
@@ -15,7 +16,7 @@ author_profile: true
 ### 01/2025 - Present
 
 <p>    
-<img src="https://github.com/panweixuan/site/blob/master/files/Density%20Profilne.png?raw=true" width=550 align="right"  />
+<img src="https://github.com/panweixuan/site/blob/master/files/Density%20Profilne.png?raw=true" width=500 align="right"  />
 As the fundamental building blocks of the large-scale structure of the Universe, dark matter halos are typically located on filaments or at their junctions, though some reside in lower-density voids. The galaxies we observe often form within these halos. Consequently, studying dark halos can deepen our understanding of galaxy evolution, while the study of galaxies, in turn, can constrain halo properties and thus inform dark matter models. In this study, I focus on several commonly discussed properties of dark halos, such as density profile, mass function, among others.
 </p>
 
@@ -31,6 +32,14 @@ H II regions are where star formation takes place in the galaxy, characterized b
 <img  src="https://github.com/panweixuan/site/blob/master/files/The%20spectrum%20for%20the%20target%20H%20ll%20region.png?raw=true" width="40%" />
 <img  src="https://github.com/panweixuan/site/blob/master/files/Physical%20Parameter%20Measurement%20Results.png?raw=true" width="40%" />
 </div>
+
+
+<!-- 
+<img align = "center" src="https://github.com/panweixuan/site/blob/master/files/The%20spectrum%20for%20the%20target%20H%20ll%20region.png?raw=true" width=500 height=300 />
+<img align = "center" src="https://github.com/panweixuan/site/blob/master/files/Physical%20Parameter%20Measurement%20Results.png?raw=true"  width=500 />
+-->
+
+
 
 
 {% if author.googlescholar %}
