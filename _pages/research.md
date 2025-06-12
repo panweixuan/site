@@ -13,7 +13,7 @@ I actively seek any potential research opportunities and also look forward to ex
 
 ## Cosmological Simulation of Large-Scale Structure
 ### Advisor: [Qiao Wang](https://nao.cas.cn/jypy/ds/ssds/202204/t20220406_6419582.html)
-### 01/2025 - Present
+### 08/2024 - Present
 
 <p>    
 <img src="https://github.com/panweixuan/site/blob/master/files/Density%20Profilne.png?raw=true" width=500 align="right"  />
