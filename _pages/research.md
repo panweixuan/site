@@ -13,12 +13,17 @@ I actively seek any potential research opportunities and also look forward to ex
 
 ## Cosmological Simulation of Large-Scale Structure
 ### Advisor: [Qiao Wang](https://nao.cas.cn/jypy/ds/ssds/202204/t20220406_6419582.html)
-### 01/2025 - Present
+### 01/2025 - 07/2025
 
 <p>    
-<img src="https://github.com/panweixuan/site/blob/master/files/Density%20Profilne.png?raw=true" width=500 align="right"  />
+<img src="https://github.com/panweixuan/site/blob/master/files/halo_profile.png?raw=true" width=500 align="right"  />
 As the fundamental building blocks of the large-scale structure of the Universe, dark matter halos are typically located on filaments or at their junctions, though some reside in lower-density voids. The galaxies we observe often form within these halos. Consequently, studying dark halos can deepen our understanding of galaxy evolution, while the study of galaxies, in turn, can constrain halo properties and thus inform dark matter models. In this study, I focus on several commonly discussed properties of dark halos, such as density profile, mass function, among others.
 </p>
+
+<div align = "center">    
+<img  src="https://github.com/panweixuan/site/blob/master/files/halo_hmf.png?raw=true" width="60%" />
+<img  src="https://github.com/panweixuan/site/blob/master/files/halo_2pcf.png?raw=true" width="40%" />
+</div>
 
 ***
 
