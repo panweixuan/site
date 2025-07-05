@@ -21,8 +21,8 @@ As the fundamental building blocks of the large-scale structure of the Universe,
 </p>
 
 <div align = "center"> 
-<img  src="https://github.com/panweixuan/site/blob/master/files/halo_hmf.png?raw=true" width="50%" height=800/>
-<img  src="https://github.com/panweixuan/site/blob/master/files/halo_2pcf.png?raw=true" width="30%"  height=300/>
+<img  src="https://github.com/panweixuan/site/blob/master/files/halo_hmf.png?raw=true" width="50%" height=1200/>
+<img  src="https://github.com/panweixuan/site/blob/master/files/halo_2pcf.png?raw=true" width="30%"  height=500/>
 </div>
 
 ***
