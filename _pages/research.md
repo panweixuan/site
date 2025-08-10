@@ -27,7 +27,7 @@ As the fundamental building blocks of the large-scale structure of the Universe,
 
 ***
 
-## M81 Dust Attenuation Modelling and Fitting
+## M81 Dust Attenuation Modeling and Fitting
 ### Advisor: [Yewei Mao](https://spee.gzhu.edu.cn/info/1681/18121.htm)
 ### 05/2025 - 7/2025
 
