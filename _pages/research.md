@@ -13,7 +13,7 @@ I actively seek any potential research opportunities and also look forward to ex
 
 ## Cosmological Simulation of Large-Scale Structure
 ### Advisor: [Qiao Wang](https://nao.cas.cn/jypy/ds/ssds/202204/t20220406_6419582.html)
-### 01/2025 - 07/2025
+### 09/2024 - 07/2025
 
 <p>    
 <img src="https://github.com/panweixuan/site/blob/master/files/halo_profile.png?raw=true" width=500 align="right"  />
@@ -24,6 +24,14 @@ As the fundamental building blocks of the large-scale structure of the Universe,
 <img  src="https://github.com/panweixuan/site/blob/master/files/halo_hmf.png?raw=true" width="60%" height=1300/>
 <img  src="https://github.com/panweixuan/site/blob/master/files/halo_2pcf.png?raw=true" width="30%"  height=500/>
 </div>
+
+***
+
+## M81 Attenuation Properties
+### Advisor: [Yewei Mao](https://spee.gzhu.edu.cn/info/1681/18121.htm)
+### 05/2025 - 7/2025
+
+Slide
 
 ***
 
