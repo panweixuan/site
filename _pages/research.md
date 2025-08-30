@@ -12,7 +12,7 @@ I actively seek any potential research opportunities and also look forward to ex
 
 
 ## Cosmological Simulation of Large-Scale Structure
-### Advisor: [Qiao Wang](https://nao.cas.cn/jypy/ds/ssds/202204/t20220406_6419582.html)
+### Advisor: [Qiao Wang](https://english.nao.cas.cn/sourcedb/people/202103/t20210325_339201.html)
 ### 09/2024 - 07/2025
 
 [Report](https://panweixuan.github.io/site//files/LSS_Report.pdf) 
