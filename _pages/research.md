@@ -11,7 +11,7 @@ author_profile: true
 I actively seek any potential research opportunities and also look forward to exploring diverse areas. I will share details of my past projects here. 👩‍💻
 
 
-## M81 Dust Attenuation SED Fitting and Analysis
+## Dust Attenuation Fitting and Analysis
 ### Advisor: [Yewei Mao](https://spee.gzhu.edu.cn/info/1681/18121.htm)
 ### 05/2025 - Now
 
