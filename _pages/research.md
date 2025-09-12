@@ -13,7 +13,7 @@ I actively seek any potential research opportunities and also look forward to ex
 
 ## Dust Attenuation Fitting and Analysis
 ### Advisor: [Yewei Mao](https://spee.gzhu.edu.cn/info/1681/18121.htm)
-### 05/2025 - Now
+### 05/2025 - Present
 
 Dust grains absorb ultraviolet and visible photons, creating a characteristic "UV bump" feature around 2175Å linked to organic particles like PAHs. Without correcting for dust effects, key galactic physical parameters such as stellar formation rates and masses can be significantly misestimated, making it crucial to understand galactic attenuation properties.
 
