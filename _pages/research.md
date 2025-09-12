@@ -17,7 +17,7 @@ I actively seek any potential research opportunities and also look forward to ex
 
 Dust grains absorb ultraviolet and visible photons, creating a characteristic "UV bump" feature around 2175Å linked to organic particles like PAHs. Without correcting for dust effects, key galactic physical parameters such as stellar formation rates and masses can be significantly misestimated, making it crucial to understand galactic attenuation properties.
 
-Initially, I investigated the attenuation properties of spiral galaxy M81. Theoretical modeling showed systematic dimming, reddening, and UV depression with increasing optical depth in stellar spectra. I constructed a 17-band SED from ultraviolet to mid-infrared and fitted it using a two-component power-law intrinsic model combined with various extinction curves. The Milky Way extinction law performed best with a reduced χ² ≈ 7.3, suggesting M81's dust properties resemble those of our Galaxy.
+I investigated the attenuation properties of spiral galaxy M81. Initially, I constructed a 17-band SED from ultraviolet to mid-infrared and fitted it using a two-component power-law intrinsic model combined with 3 attenuation curves. The Milky Way type performed best with a reduced χ² ≈ 7.3, suggesting M81 has a bump but weaker than our galaxy.
 
 I presented a flash talk in our department to report my research findings. [Click here](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fpanweixuan%2Fsite%2Frefs%2Fheads%2Fmaster%2Ffiles%2FWeixuan_M81AttCurv.pptx&wdOrigin=BROWSELINK) to view my slide.
 
