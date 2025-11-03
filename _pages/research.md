@@ -31,6 +31,10 @@ I actively seek any potential research opportunities and also look forward to ex
 ### Advisor: [Yewei Mao](https://spee.gzhu.edu.cn/info/1681/18121.htm)
 ### 05/2025 - Present
 
+<p>    
+<img src="https://github.com/panweixuan/site/blob/master/files/M81SED.png?raw=true" width=500 align="right"  />
+</p>
+
 Dust grains absorb ultraviolet and visible photons, creating a characteristic "UV bump" feature around 2175Å linked to organic particles like PAHs. Without correcting for dust effects, key galactic physical parameters such as stellar formation rates and masses can be significantly misestimated, making it crucial to understand galactic attenuation properties.
 
 I investigated the attenuation properties of spiral galaxy M81. Initially, I constructed a 17-band SED from ultraviolet to mid-infrared and fitted it using a two-component power-law intrinsic model combined with 3 attenuation curves. The Milky Way type performed best with a reduced χ² ≈ 7.3, indicating that M81's attenuation characteristics are more consistent with Milky Way-type dust than with bump-deficient extragalactic environments.
