@@ -21,7 +21,7 @@ I actively seek any potential research opportunities and also look forward to ex
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen
-      style="position: absolute; top: 0; left: 0; width: 80%; height: 80%; margin-left: 10%;">
+      style="position: absolute; top: 0; left: 0; width: 70%; height: 80%; margin-left: 10%;">
   </iframe>
 </div>
 ***
