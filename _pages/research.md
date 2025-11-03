@@ -10,6 +10,14 @@ author_profile: true
 -->
 I actively seek any potential research opportunities and also look forward to exploring diverse areas. I will share details of my past projects here. 👩‍💻
 
+## Dust Attenuation Fitting and Analysis
+### Advisor: [Shi Shao](https://nao.cas.cn/jypy/ds/bsds/202301/t20230110_6598174.html)
+### 07/2025 - Present
+
+
+<iframe src="https://youtube.com/shorts/KEE4Pc2SDng?si=1yStsajJQRphm6rN" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+***
+
 
 ## Dust Attenuation Fitting and Analysis
 ### Advisor: [Yewei Mao](https://spee.gzhu.edu.cn/info/1681/18121.htm)
