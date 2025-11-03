@@ -8,7 +8,7 @@ author_profile: true
 <!-- 
 # Welcome to My Research Website! 👋
 -->
-I actively seek any potential research opportunities and also look forward to exploring diverse areas. I will share details of my past projects here. 👩‍💻
+I actively seek any potential research opportunities and also look forward to exploring diverse areas. I will share the details of my projects here. 👩‍💻
 
 ## Effects of Dark-Matter Halo Properties on the Stability of Disk Galaxies
 ### Advisor: [Shi Shao](https://nao.cas.cn/jypy/ds/bsds/202301/t20230110_6598174.html)
