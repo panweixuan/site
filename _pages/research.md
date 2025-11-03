@@ -14,6 +14,12 @@ I actively seek any potential research opportunities and also look forward to ex
 ### Advisor: [Shi Shao](https://nao.cas.cn/jypy/ds/bsds/202301/t20230110_6598174.html)
 ### 07/2025 - Present
 
+Recently, I have been exploring galaxy simulations. Using [GALIC](https://github.com/denisyurin/GALIC), I generated initial conditions for multiple Milky Way-like galaxies with only halo and disk components, then ran collisionless N-body simulations for 10 Gyr using [GADGET-4](https://wwwmpa.mpa-garching.mpg.de/gadget4/). 
+
+By varying parameters such as halo concentration, spin, and shape, I calculated diagnostic parameters including Toomre Q, bar strength, and angular momentum evolution to study disk stability.
+
+Below is an animation from one of these simulations.
+
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; text-align:center;">
   <iframe 
       src="https://www.youtube.com/embed/KEE4Pc2SDng"
