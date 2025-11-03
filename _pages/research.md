@@ -14,13 +14,16 @@ I actively seek any potential research opportunities and also look forward to ex
 ### Advisor: [Shi Shao](https://nao.cas.cn/jypy/ds/bsds/202301/t20230110_6598174.html)
 ### 07/2025 - Present
 
-<iframe width="420" height="236"
-    src="https://www.youtube.com/embed/KEE4Pc2SDng"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-</iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; text-align:center;">
+  <iframe 
+      src="https://www.youtube.com/embed/KEE4Pc2SDng"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 80%; height: 80%; margin-left: 10%;">
+  </iframe>
+</div>
 ***
 
 
