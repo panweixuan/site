@@ -10,7 +10,7 @@ author_profile: true
 -->
 I actively seek any potential research opportunities and also look forward to exploring diverse areas. I will share details of my past projects here. 👩‍💻
 
-## Dust Attenuation Fitting and Analysis
+## Effects of Dark-Matter Halo Properties on the Stability of Disk Galaxies
 ### Advisor: [Shi Shao](https://nao.cas.cn/jypy/ds/bsds/202301/t20230110_6598174.html)
 ### 07/2025 - Present
 
