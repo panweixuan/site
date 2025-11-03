@@ -18,7 +18,7 @@ Recently, I have been exploring galaxy simulations. Using [GALIC](https://github
 
 By varying parameters such as halo concentration, spin, and shape, I calculated diagnostic parameters including Toomre Q, bar strength, and angular momentum evolution to study disk stability.
 
-Below is an animation from one of these simulations.
+Below is an animation of the surface density map from one of these simulations.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; text-align:center;">
   <iframe 
