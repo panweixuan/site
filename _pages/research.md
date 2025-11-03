@@ -51,7 +51,7 @@ I presented a flash talk in our department to report my research findings. [Clic
 
 More recently, I conducted a Bayesian SED fitting analysis of M81 using the [BAGPIPES](https://github.com/ACCarnall/bagpipes) program. I employed the Salim dust attenuation model, performing separate fits with and without the UV bump feature. The Bayesian evidence favored the no-bump model with ΔlnZ = -1.539 ± 0.273. 
 
-This analysis reveals the inherent limitations in current photometric constraints on overall M81's UV bump strength, with both statistical methods producing uncertain conclusions about the galaxy's dust attenuation properties.
+This analysis reveals the inherent limitations in current photometric constraints on M81's overall UV bump strength, with both statistical methods producing uncertain conclusions about the galaxy's dust attenuation properties.
 
 [Click here](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fpanweixuan%2Fsite%2Frefs%2Fheads%2Fmaster%2Ffiles%2FWeixuan_M81AttBp.pptx&wdOrigin=BROWSELINK) for a quick overview of this new result.
 
