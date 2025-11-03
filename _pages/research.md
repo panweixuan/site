@@ -14,7 +14,7 @@ I actively seek any potential research opportunities and also look forward to ex
 ### Advisor: [Shi Shao](https://nao.cas.cn/jypy/ds/bsds/202301/t20230110_6598174.html)
 ### 07/2025 - Present
 
-<iframe width="560" height="315"
+<iframe width="420" height="236"
     src="https://www.youtube.com/embed/KEE4Pc2SDng"
     title="YouTube video player"
     frameborder="0"
