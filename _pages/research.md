@@ -31,8 +31,10 @@ I actively seek any potential research opportunities and also look forward to ex
 ### Advisor: [Yewei Mao](https://spee.gzhu.edu.cn/info/1681/18121.htm)
 ### 05/2025 - Present
 
-<p>    
-<img src="https://github.com/panweixuan/site/blob/master/files/attenuation%20spectra.png?raw=true" width="35%" align="right"/>
+<p>
+  <img src="https://github.com/panweixuan/site/blob/master/files/attenuation%20spectra.png?raw=true"
+       width="35%" align="right"
+       style="margin-left: 20px; margin-bottom: 10px;">
 </p>
 
 Dust grains absorb ultraviolet and visible photons, creating a characteristic "UV bump" feature around 2175Å linked to organic particles like PAHs. Without correcting for dust effects, key galactic physical parameters such as stellar formation rates and masses can be significantly misestimated, making it crucial to understand galactic attenuation properties.
